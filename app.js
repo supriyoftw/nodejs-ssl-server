@@ -10,10 +10,8 @@ app.get('/', (req, res) => {
         res.send(`<html>
                     <body>
                 
-<h1>Welcome to My Smiley Page!</h1>
-    <p>Here's a smiley face for you:</p>
-    <img src="smiley.png" alt="Smiley face" width="100" height="100">
-                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> Hii, This is supriyo Test Page </h1>
+
+                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> Hii, This is supriyo Test !aka AWS App Runner </h1>
                         <div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
                             <img src="https://picsum.photos/400/400?random=1">
                         </div>
